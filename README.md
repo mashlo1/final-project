@@ -7,6 +7,7 @@ This project analyzes trends in weight-related health conditions among WIC-enrol
 - `main.ipynb`: Jupyter Notebook with all code, graphs, and markdown explanations.
 - `Nutrition__Physical_Activity__...csv`: Raw dataset used in the analysis.
 - `*.png`: Image files generated from the notebook visualizations.
+- `.gitignore` : for ignoring the venv.
 
 ## Summary of Results
 
